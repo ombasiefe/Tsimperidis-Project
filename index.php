@@ -22,6 +22,7 @@ echo "They do good work";
     <h2>stamatis gay</h2>
     <p>THAT WAS SIMPLE</p>
     <button>HALLO </button>
+    <h1>vasilis is gay</h1>
     <img src="Images/Scratch_ship_Game.png" alt="">
 
 </body>
