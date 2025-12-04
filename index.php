@@ -20,6 +20,10 @@ echo "They do good work";
     <h1>efe eisai amea</h1>
     <h1>You too </h1>
     <h2>stamatis gay</h2>
+    <p>THAT WAS SIMPLE</p>
+    <button>HALLO </button>
+    <img src="Images/Scratch_ship_Game.png" alt="">
+
 </body>
 
 </html>
